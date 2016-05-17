@@ -1,0 +1,14 @@
+.btn-cta {
+  text-decoration: none;
+  font-size: 1.3em;
+  color: white;
+  background: rgba(250,250,250,0.4);
+  padding: .6em 1.4em;
+  border-radius: .3em;
+  &:hover {
+    background: rgba(250,250,250,0.6);
+    text-decoration: none;
+    color: white;
+  }
+}
+

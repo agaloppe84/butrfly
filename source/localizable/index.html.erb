@@ -1,0 +1,29 @@
+<section id="hero">
+  <div class="wrapper">
+    <h1><%= t(:header) %></h1>
+    <a href="#beta-form" class="btn-cta" ><%= t(:cta) %></a>
+  </div>
+</section>
+
+<!-- Start Features -->
+<div id="features">
+  <div class="container-fluid">
+      <h2 class="section-title"><%= t(:features_title) %></h2>
+      <div class="row">
+           <% t(:features).each do |feature| %>
+              <div class="col-sm-6 col-md-4">
+                  <div class="icon-box">
+                    <span class="icon">
+                      <i class="<%= feature[:icon] %>" aria-hidden="true"></i>
+                    </span>
+                    <h4><%= feature[:title] %></h4>
+                    <p><%= feature[:description] %></p>
+                  </div>
+              </div>
+          <% end %>
+      </div>
+  </div>
+</div>
+<!-- End Features -->
+
+<%= partial "beta-form" %>

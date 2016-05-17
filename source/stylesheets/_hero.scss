@@ -1,0 +1,25 @@
+#hero {
+  background: url(../images/hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  color: white;
+  padding: 19em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .wrapper {
+    width: 80%;
+    text-align: center;
+  }
+  h1 {
+    margin-bottom: 35px;
+  }
+  p {
+    margin-bottom: 2em;
+  }
+  a {
+    margin-top: 200px;
+  }
+}
