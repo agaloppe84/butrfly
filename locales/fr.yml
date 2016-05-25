@@ -1,14 +1,18 @@
 ---
 fr:
   brand: BUTRFLY
-  header: Rejoins la 1ère communauté au pair et utilise un service de mise en relation inédit
+  header: Rejoins la 1ère communauté au pair et découvre des services inédits
   cta: Rejoins-nous
   form_url: //butrfly.us13.list-manage.com/subscribe/post?u=00d62b935d3c754fbd9f5c813&amp;id=acdca846ef
   form_name: b_00d62b935d3c754fbd9f5c813_acdca846ef
   form_btn: Envoyer
   first_name: Prénom
   email_address: Adresse email
-  features_title: Fonctionnalités
+  comingsoon: ARRIVE BIENTOT
+  textform: Rejoins-nous pour savoir quand BUTRFLY sera en ligne
+  about_title: A PROPOS DE NOUS
+  about_text: L'équipe BUTFRLY, c'est quelques personnes encore tout émues des merveilleuses expériences qu'elles ont pu vivre à travers l'au pairing, soit en tant qu'enfants, soit en tant que parents, soit en tant qu’au pair. Avec BUTRFLY ils ont leu envie de faire entrer cette belle idée dans le monde d’aujourd’hui qui changera votre vie.
+  features_title: FONCTIONNALITES
   features:
     - icon: fa fa-video-camera
       title: Video

@@ -1,7 +1,12 @@
 #features {
-  padding: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 30px;
   .section-title {
     color: #565A5C;
+    font-size: 19px;
+    font-family: 'BrixSansExtraLight';
+    letter-spacing: 3px;
   }
   .icon-box {
     width: 100%;
@@ -12,7 +17,11 @@
     text-align: center;
     .icon {
       font-size: 2rem;
-      color: #3dadb2;
+      color: #F22672;
     }
   }
+}
+
+.icon-box p {
+  line-height: 110%;
 }

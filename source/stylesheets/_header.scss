@@ -3,14 +3,20 @@
   border-bottom: 1px solid #E9E9E9;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   .logo {
-    color: #40B4BA;
-    font-weight: 700;
-    font-size: 1.7em;
+    flex: 1;
+    color: #F94688;
+    font-family: 'Circular-Black';
+    font-size: 18px;
+  }
+  .betatext {
+    flex: 18;
+    font-size: 17px;
+    font-family: 'BrixSansExtraLight';
   }
   .langages {
     color: #565A5C;
+    align-self: flex-end;
     a {
       color: #565A5C;
       text-decoration: none;

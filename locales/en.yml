@@ -1,14 +1,18 @@
 ---
 en:
   brand: BUTRFLY
-  header: Join the first au pair community and test unique matchmaking service
-  cta: Join us
+  header: Join the first au pair community
+  cta: join us
   form_url: //butrfly.us13.list-manage.com/subscribe/post?u=00d62b935d3c754fbd9f5c813&amp;id=5f2114b184
   form_name: b_00d62b935d3c754fbd9f5c813_5f2114b184
   form_btn: Submit
-  first_name: First name
-  email_address: Mail
-  features_title: Features
+  first_name: first name
+  email_address: email
+  comingsoon: COMING SOON
+  textform: Join us to know when BUTRFLY will be online
+  about_title: ABOUT US
+  about_text: The BUTFRLY team is a few people so enthusiast of the wonderful experiences they have lived through the au pairing, either as children or as parents or as an au pair. With BUTRFLY they want to bring this beautiful idea that can change your life.
+  features_title: FEATURES
   features:
     - icon: fa fa-video-camera
       title: Video
@@ -20,7 +24,7 @@ en:
 
     - icon: fa fa-map-marker
       title: Geolocation
-      description: Geotag your family in one clic and look at all au pair around. You will never feel alone anymore !
+      description: Geotag your family in one clic and look at all au pair around. You will never feel alone !
 
     - icon: fa fa-money
       title: Compensation guarantee
@@ -28,8 +32,10 @@ en:
 
     - icon: fa fa-universal-access
       title: Support
-      description: BUTRFLY supports you all along your stay in your host family.
+      description: One question, just ask! BUTRFLY supports you all along your stay in your host family.
 
     - icon: fa fa-thumbs-o-up
       title: Reviews
       description: Improve your profile with reviews from your family and your friends.
+
+

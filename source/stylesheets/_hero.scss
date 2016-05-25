@@ -5,21 +5,32 @@
   background-position: center center;
   width: 100%;
   color: white;
+  height: 60vh;
   padding: 19em 0;
   display: flex;
   justify-content: center;
   align-items: center;
   .wrapper {
-    width: 80%;
+    width: 50%;
     text-align: center;
   }
-  h1 {
-    margin-bottom: 35px;
+  .bigtitle {
+    font-family: 'Circular-Bold';
+    font-size: 22px;
+  }
+  .beta {
+    font-size: 19px;
+    color: #F22672;
+    font-family: 'BrixSansExtraLight';
+  }
+  h4 {
+    margin-bottom: 30px;
+    font-family: 'Circular-Book';
   }
   p {
     margin-bottom: 2em;
   }
   a {
-    margin-top: 200px;
+    margin-top: 40px;
   }
 }

@@ -1,12 +1,13 @@
 .btn-cta {
   text-decoration: none;
-  font-size: 1.3em;
+  font-family: 'Circular-Book';
+  font-size: 14px;
   color: white;
-  background: rgba(250,250,250,0.4);
+  background: #F22672;
   padding: .6em 1.4em;
   border-radius: .3em;
   &:hover {
-    background: rgba(250,250,250,0.6);
+    background: #F22672;
     text-decoration: none;
     color: white;
   }
