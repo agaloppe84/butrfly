@@ -4,13 +4,11 @@
   display: flex;
   align-items: center;
   .logo {
-    flex: 1;
     color: #F94688;
     font-family: 'Circular-Black';
     font-size: 18px;
   }
   .betatext {
-    flex: 18;
     font-size: 17px;
     font-family: 'BrixSansExtraLight';
   }
@@ -30,4 +28,8 @@
       vertical-align: middle;
     }
   }
+}
+
+.testheader {
+  flex: 10;
 }
