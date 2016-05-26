@@ -8,32 +8,32 @@ fr:
   form_btn: Envoyer
   first_name: Prénom
   email_address: Adresse email
-  comingsoon: ARRIVE BIENTOT
-  textform: Rejoins-nous pour savoir quand BUTRFLY sera en ligne
+  comingsoon: PROCHAINEMENT
+  textform: Inscrivez-vous pour être informé du lancement du site.
   about_title: A PROPOS DE NOUS
   about_text: L'équipe BUTFRLY, c'est quelques personnes encore tout émues des merveilleuses expériences qu'elles ont pu vivre à travers l'au pairing, soit en tant qu'enfants, soit en tant que parents, soit en tant qu’au pair. Avec BUTRFLY ils ont eu envie de faire entrer cette belle idée dans le monde d’aujourd’hui qui changera votre vie.
   features_title: FONCTIONNALITES
   features:
     - icon: fa fa-video-camera
       title: Video
-      description: Contacte ta famille au pair par vidéo directement depuis BUTRFLY et gagne du temps !
+      description: Dis bonjour à ta famille avant le départ en la contactant par vidéo directement depuis BUTRFLY et gagne du temps!
 
     - icon: fa fa-users
       title: Communauté
-      description: Retrouve les au pair sur BUTRFLY et rencontre les, partage ton expérience et créé toi de nouveaux amis !
+      description: Retrouve les au pairs sur BUTRFLY, vous pourrez partager vos expériences et même organiser des rencontres.
 
     - icon: fa fa-map-marker
       title: Géolocalisation
-      description: Localise ta famille d'accueil et les au pair à proximité.
+      description: Découvre ton nouveau home sweet home grâce à la géolocalisation! Tu visualises le lieu de vie de ta famille d’accueil et les au pair à proximité.
 
     - icon: fa fa-money
       title: Rémunération garantie
-      description: Avec BUTRFLY tu es sûr de recevoir ton argent de poche sur ton compte à jour fixe.
+      description: Fais la paix avec ton porte-monnaie! Avec BUTRFLY tu es certain de recevoir ton argent de poche sur ton compte à jour fixe.
 
     - icon: fa fa-universal-access
-      title: Soutien et accompagnement
-      description: BUTRFLY t'accompagne tout au long du séjour chez ta famille et est là en cas de besoin.
+      title: Support
+      description: One question, Just ask! BUTRFLY est là en cas de besoin et t’accompagne tout au long du séjour chez ta famille.
 
     - icon: fa fa-thumbs-o-up
       title: Recommendations
-      description: Améliore ton profil grâce aux témoignages de ta famille et de tes amis.
+      description: Avec BUTRFLY, fais briller tes talents! Tu peux améliorer ton profil grâce aux témoignages de la famille et de tes amis.

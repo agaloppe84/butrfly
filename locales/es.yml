@@ -1,38 +1,39 @@
 ---
 es:
   brand: BUTRFLY
-  header: Unete a la primera comunidad au pair
+  header: Unete a la primera comunidad au pair y utiliza un servicio único
   cta: Unete
   form_url: //butrfly.us13.list-manage.com/subscribe/post?u=00d62b935d3c754fbd9f5c813&amp;id=bc644ed8e2
   form_name: b_00d62b935d3c754fbd9f5c813_bc644ed8e2
   form_btn: Enviar
   first_name: Apellido
-  about_title: ACERCA DE NOS
+  about_title: ACERCA DE NOSOTROS
+  textform: Unete para estar informado cuando BUTRFLY esté online.
   email_address: Email
-  comingsoon: ES MUY PRONTO
-  about_text: El equipo BUTFRLY es unas pocas personas tan emocionadas por las maravillosas experiencias que han vivido a través de la au pair experiencia, ya sea como niños o como padres o como au pair. Con BUTFRLY querien llevar esta idea hermosa en el mundo de hoy que cambiara tu vida.
+  comingsoon: PROXIMAMENTE
+  about_text: El equipo BUTFRLY son algunas personas que todavía están emocionadas por las maravillosas experiencias que han vivido a través de la experiencia au pair experiencia, ya sea como niños, como padres o como au pair. Con BUTFRLY querien llevar esta idéa hermosa al mundo de hoy en día que cambiara tu vida.
   features_title: FUNCIONALIDADES
   features:
     - icon: fa fa-video-camera
-      title: Video
-      description: Habla con la familia anfitriona por video antes de salir desde BUTRFLY y gana tiempo !
+      title: Vídeo
+      description: Habla con la familia anfitriona por vídeo antes de salir y gana tiempo !
 
     - icon: fa fa-users
       title: Comunidad
-      description: Hazte amigos para toda la vida ! Compartes tus experiencias y encuentras au pair que estan viviendo cerca de tu familia.
+      description: Hazte amigos para toda la vida ! Compartes tus experiencias y encuentras au pair que están viviendo cerca de tu familia.
 
     - icon: fa fa-map-marker
-      title: Geolocalizacion
-      description: Descubres tu nuevo lugar de vida antes de irte , localizas a tu familia de acogida y a los au pair que hay cerca. Ya no te sentiras solo !
+      title: Geolocalización
+      description: Descubres tu nuevo lugar de vida antes de irte , localizas a tu familia de acogida y a los au pair que hay cerca. Ya no te sentirás solo !
 
     - icon: fa fa-money
-      title: Compensacion garantizada
-      description: Con BUTRFLY reciberas tu salario en tu cuenta bancaria en un dia fijo.
+      title: Compensación garantizada
+      description: Con BUTRFLY reciberás tu salario en tu cuenta bancaria en un día fijo.
 
     - icon: fa fa-universal-access
       title: Apoyo
-      description: Necesitas ayuda? BUTRFLY te accompanara durante toda la estancia con tu familia y estara ahi cuando sea necesario.
+      description: Necesitas ayuda? BUTRFLY te acompañara durante toda la estancia con tu familia y estará ahí cuando sea necesario.
 
     - icon: fa fa-thumbs-o-up
       title: Recomendaciones
-      description: Mejores tu perfil gracias a los testimonios de tu familia y de tus amigos.
+      description: Mejora tu perfil gracias a los testimonios de la familia y de tus amigos.
